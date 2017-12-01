@@ -1,0 +1,1 @@
+/bin/c++    -std=c++0x -Wall -pedantic    CMakeFiles/lab5.dir/src/GLSL.cpp.o CMakeFiles/lab5.dir/src/main.cpp.o CMakeFiles/lab5.dir/ext/glad/src/glad.c.o  -o lab5 -rdynamic /home/adattalo/lib/glfw-3.1.2/debug/src/libglfw3.a -lrt -lm -lX11 -lpthread -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl -lGL -ldl -lGL 
